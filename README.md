@@ -1,5 +1,5 @@
 !</h1> Hi, I'm Adithya !</h1>
-I'm currently entering 4th year electronics and communication engineering student studying in NMAMIT,Udupi.Inspite of non computer science background I love to solve problems on coding and want to be a software developer.
+I'm currently entering 4th year electronics and communication engineering  studying in NMAMIT,Udupi.Inspite of non computer science background I love to solve problems on coding and want to be a software developer.
 
 - 🔭 I’m currently heading towards mastering Python language
 - 🌱 I’m good enough in basics of c/c++ languages
